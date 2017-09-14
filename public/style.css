@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+}
+.tilt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20vh;
+  width: 80vw;
+  background: #b993d6;
+  background: linear-gradient(to right, #b993d6, #8ca6db);
+  transform-style: preserve-3d;
+}
+.name {
+  display: flex;
+  margin-top: 20vh;
+  color: white;
+  font-size: 30px;
+  transform: translateZ(100px);
+  font
+}
